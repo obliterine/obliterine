@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+- Graduating with a Bachelor's in Computer Science and a Bachelor's in Game Design.
+- Most of the time I spend on programming is done in C#, usually in Unity Game Engine.
+- My friends and I have uploaded a free game to Steam, where you can play it [here](https://store.steampowered.com/app/3324230/Critter_Gang/)! We uploaded it after we did the Ludum Dare Game Jam.
+- I have recently been taking a Predictive Analytics course and have been loving the content.
+- I enjoy playing games such as Terraria, Monster Hunter, and The Binding of Isaac.
